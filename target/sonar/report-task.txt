@@ -1,0 +1,6 @@
+projectKey=maven-multimodule
+serverUrl=http://localhost:9000
+serverVersion=9.2.1.49989
+dashboardUrl=http://localhost:9000/dashboard?id=maven-multimodule
+ceTaskId=AX2Yz0WVTzbILU5_WIwC
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX2Yz0WVTzbILU5_WIwC
